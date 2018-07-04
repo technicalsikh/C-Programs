@@ -20,7 +20,7 @@ int main() {
 
 
     add=one+two+three+five+four;
-            printf("Digits to add %d %d %d %d %d\n",one,two,three,four,five);
+            printf("Digits to add : %d %d %d %d %d\n",one,two,three,four,five);
             printf("Total of all digits of number : %d",add);
     return 0;
 }
